@@ -1,2 +1,0 @@
-# Udacity-JavaScript
-final-project
